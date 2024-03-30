@@ -1,7 +1,7 @@
-# Predicting Forest Covers
+### Predicting Forest Covers
 
-## Description
+#### Description
 The goal of the project is to predict the type of forest cover, a categorical variable, using a variety of information related to a specific geographical area. The main metric for evaluating the performance of our models is accuracy, used for ranking on a test set. The study area encompasses four wilderness zones in the Roosevelt National Forest, in northern Colorado. These areas exhibit diversity in terms of elevation, main tree types, and species composition, providing a rich and varied setting for our analysis.
 
-## Results
+#### Results
 Our best model was an Extra Trees Classifier, which produced a validation score of 0.89 and a test score of 0.80.
