@@ -1,7 +1,0 @@
-## Predicting Forest Covers
-
-### Description
-The goal of the project is to predict the type of forest cover, a categorical variable, using a variety of information related to a specific geographical area...
-
-### Results
-Our best model was an Extra Trees Classifier, which produced a validation score of 0.89 and a test score of 0.80.
